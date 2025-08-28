@@ -1,4 +1,4 @@
-# Rexx Cloud Python Functions
+# Cloud Python Functions
 
 A collection of Firebase Cloud Functions for content processing and automation.
 
